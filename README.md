@@ -5,6 +5,7 @@
 * _$ git add .gitignore_
 * _$ git commit -m "Add .gitignore to project."_
 * _$ git push dg main_
+* _$ npm init -y_
 * _$ npm install_
 * _$ npm run build_
 
